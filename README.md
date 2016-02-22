@@ -2,11 +2,13 @@ remoteUpdater
 =============
 
 Author: Trey Watford
+
 Email: treyjustinwatford@gmail.com
 
 This is a simple file system scanner written in GO that can be used to update git repository remotes.
 
 To use this program please follow the steps listed below:
+
 1. Run the program from the command line passing in the following values
   1. -root=your_root_directory
   2. -replace=text_to_replace
